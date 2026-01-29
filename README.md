@@ -33,7 +33,7 @@ Here, rating tiers (**Good, Okay, Bad**) are encoded using different shapes.
 This makes it easier to compare how **rating quality changes as categories become more or less popular**, without relying only on color.
 
 ### Filtering to Reduce Visual Overload
-![Rating Size Filter](assets/rating_size_filter.png)
+![Rating Size Filter](assets/ratng_size_filter.png)
 
 This version adds filtering to focus on subsets of categories, helping separate dense regions of the plot.  
 It shows how filtering can make popularity-driven patterns clearer while still preserving overall context.
