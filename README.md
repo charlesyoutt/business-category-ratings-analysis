@@ -14,7 +14,6 @@ Using a business review dataset, the notebook:
 - Applies different **encoding techniques** (color, symbols, filtering) to improve clarity and interpretability
 - Evaluates how visualization choices can emphasize or obscure trends
 
-
 ## Visualizations & Analysis
 
 ### Category Popularity vs. Customer Ratings
@@ -38,6 +37,15 @@ This makes it easier to compare how **rating quality changes as categories becom
 This version adds filtering to focus on subsets of categories, helping separate dense regions of the plot.  
 It shows how filtering can make popularity-driven patterns clearer while still preserving overall context.
 
+## Technical Concepts
+This project touches a mix of data analysis and visualization design concepts, including:
+
+- **Exploratory data analysis (EDA)**
+- **Log-scaled feature representation** for highly skewed popularity distributions
+- **Visual encoding design** (color, shape, size, and filtering)
+- **Categorical aggregation and summarization**
+- **Comparative analysis across categorical groups**
+  
 ## Key Takeaways
 - Category popularity and customer ratings are related, but not in a simple linear way  
 - Extremely popular categories tend to converge toward “good but not perfect” ratings  
